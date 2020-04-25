@@ -1,7 +1,7 @@
 # exit from infinite loop v.2
 # using flag 
 
-prompt = ("\nTo quit the program, enter 'x'\nEnter your name: ")
+prompt = ("\nType 'x' to exit.\nEnter: ")
 
 flag = True
 
